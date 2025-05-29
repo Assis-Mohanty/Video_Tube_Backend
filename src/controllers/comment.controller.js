@@ -52,3 +52,5 @@ const getVideoComments = asyncHandler(async (req, res) => {
 })
 
 export {addComment,updateComment,deleteComment,getVideoComments}
+
+//comment controller 
