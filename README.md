@@ -116,4 +116,4 @@ The React-based frontend is in progress. Axios will be used to interact with bac
 
 ---
 
-Let me know if you want a **markdown file version**, a **GitHub-friendly badge layout**, or if you're integrating Swagger/OpenAPI.
+
